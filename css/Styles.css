@@ -1,3 +1,4 @@
+/**************************************TAG SELECTORS*****************************************************************/
 body {
   background-color: #FDEBED;
 }
@@ -18,3 +19,36 @@ color: #1e8484;
 h3 {
 color: #66bfbf;
 }
+
+a:hover {
+  color: yellow;
+}
+
+/**************************************CLASS SELECTORS*****************************************************************/
+/*
+.table1 {
+  color: red;
+}
+
+.table2 {
+  color: green;
+}
+
+.table3 {
+  color: blue;
+}
+
+.table4 {
+  color: yellow;
+}
+
+.table5 {
+  color: purple;
+}
+*/
+
+.roundcorner {
+  border-radius: 20%;
+}
+
+/**************************************ID SELECTORS*****************************************************************/
